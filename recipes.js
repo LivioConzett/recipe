@@ -4,6 +4,7 @@ const RECIPES =
   {
     id: 0,
     name: "Banana Bread",
+    amount: 9,
     ingredients: [
       {
         name: INGREDIENTS.butter,
@@ -49,6 +50,7 @@ const RECIPES =
   {
     id: 1,
     name: "A test",
+    amount: 9,
     ingredients: [
       {
         name: INGREDIENTS.butter,
